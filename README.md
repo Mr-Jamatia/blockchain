@@ -24,7 +24,7 @@ This repository focuses on building and implementing cryptocurrency features lik
 3. **Clone the Forked Repository**: 
     - Clone your forked repository to your local machine using the following command (replace <your-username> with your GitHub username):
     - ```terminal
-        git clone git clone https://github.com/<your-username>/blockchain.git
+        git clone https://github.com/<your-username>/blockchain.git
       ```
 
 4. **Make changes:** 
